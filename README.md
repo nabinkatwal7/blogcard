@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/nabinkatwal7/blogcard)
-- Live Site URL: [](https://main--deluxe-quokka-ecd441.netlify.app/)
+- Solution URL: [https://github.com/nabinkatwal7/blogcard](github)
+- Live Site URL: [https://main--deluxe-quokka-ecd441.netlify.app/](netlify)
 
 ## My process
 
