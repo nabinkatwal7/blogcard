@@ -72,3 +72,8 @@ body{
     width: 30px;
     height: 30px;
 }
+
+h3:hover{
+    color: hsl(47, 88%, 63%);
+    cursor: pointer;
+}
